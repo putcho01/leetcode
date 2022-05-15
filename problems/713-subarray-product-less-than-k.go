@@ -1,5 +1,6 @@
 package main
 
+// sliding window
 // https://leetcode.com/problems/subarray-product-less-than-k/
 
 func numSubarrayProductLessThanK(nums []int, k int) int {

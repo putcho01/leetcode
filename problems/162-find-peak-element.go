@@ -1,5 +1,6 @@
 package main
 
+// Binary Search
 //https://leetcode.com/problems/find-peak-element/
 
 func findPeakElement(nums []int) int {

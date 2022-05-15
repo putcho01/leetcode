@@ -1,5 +1,6 @@
 package main
 
+// Two Pointers
 //https://leetcode.com/problems/interval-list-intersections/
 
 func intervalIntersection(firstList [][]int, secondList [][]int) [][]int {

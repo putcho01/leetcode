@@ -1,5 +1,7 @@
 package main
 
+// Two Pointers
+
 func maxArea(height []int) int {
 	// two pointer algorithm
 	n := len(height)

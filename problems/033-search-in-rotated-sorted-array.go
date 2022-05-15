@@ -1,5 +1,6 @@
 package main
 
+// Binary Search
 //https://leetcode.com/problems/search-in-rotated-sorted-array/
 
 func search(nums []int, target int) int {

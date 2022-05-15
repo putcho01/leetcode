@@ -1,5 +1,6 @@
 package main
 
+// Binary Search
 //https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
 func searchRange(nums []int, target int) []int {

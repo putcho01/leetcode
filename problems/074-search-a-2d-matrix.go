@@ -1,5 +1,6 @@
 package main
 
+// Binary Search
 //https://leetcode.com/problems/search-a-2d-matrix/
 
 func searchMatrix(matrix [][]int, target int) bool {

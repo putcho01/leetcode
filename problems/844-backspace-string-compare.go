@@ -1,5 +1,6 @@
 package main
 
+// Two Pointers
 //https://leetcode.com/problems/backspace-string-compare/
 
 func backspaceCompare(s string, t string) bool {

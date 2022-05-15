@@ -1,5 +1,6 @@
 package main
 
+// sliding window
 //https://leetcode.com/problems/find-all-anagrams-in-a-string/
 
 func findAnagrams(s string, p string) []int {
